@@ -427,6 +427,23 @@ h6 {
   text-align: center;
 }
 
+#hero .social-links {
+    margin-top: 30px;
+}
+
+#hero .social-links a {
+    font-size: 24px;
+    display: inline-block;
+    color: #55ed67;
+    line-height: 1;
+    margin-right: 20px;
+    transition: 0.3s;
+}
+
+#hero .social-links a:hover {
+    color: #b3d8fc;
+    }
+
 #hero h1 {
   margin: 0;
   font-size: 56px;
@@ -441,22 +458,22 @@ h6 {
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.9);
-  margin: 10px 0 0 0;
-  font-size: 24px;
+    color: #ff0000;
+    margin: 10px 0 0 0;
+    font-size: 24px;
 }
 
 #hero p {
-    color: #45505b;
+    color: rgba(255, 255, 255, 0.9);
     margin: 15px 0 0 0;
     font-size: 26px;
     font-family: "Poppins", sans-serif;
 }
 
-    #hero p span {
-        color: #0563bb;
-        letter-spacing: 1px;
-    }
+#hero p span {
+    color: rgba(179, 216, 252, 0.9);
+    letter-spacing: 1px;
+}
 
 #hero .icon-box {
   padding: 30px 20px;
