@@ -18,4 +18,4 @@
 
 웹 포트폴리오 중간 점검
 
-<img src="https://raw.githubusercontent.com/codingnewbie0/Project_Portpolio\images.mp4" width="700">
+<img src="https://raw.githubusercontent.com/codingnewbie0/Project_Portpolio/main/images/CodingNewbie0_Web_Portpolio.gif" width="700">
